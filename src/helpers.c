@@ -1,0 +1,1 @@
+//screen dimentions in pixels
